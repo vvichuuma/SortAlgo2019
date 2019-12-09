@@ -1,4 +1,5 @@
 //Youtube: https://www.youtube.com/watch?v=g-PGLbMth_g
+//2 for loops and a if statement for swapping:
 function selection(a) {
   for (let i = 0; i < a.length - 1; i++) {
     var iMin = i;
