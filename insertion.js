@@ -3,6 +3,7 @@
 //you check for the elements towards your left and swap it.
 //you use for loop for incrementing
 //you use while loop for decrementing.
+//Youtube - https://www.youtube.com/watch?v=JU767SDMDvA
 
 function insertion(a) {
   for (let i = 0; i < a.length; i++) {
