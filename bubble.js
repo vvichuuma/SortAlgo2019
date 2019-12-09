@@ -1,5 +1,6 @@
 //bubble sort - It is a method of sorting where you do a loop with in a loop and swap the elements:
 //The Big O complexity for this is - O(n)2 where n is the size of the array.
+//Youtube - https://www.youtube.com/watch?v=xli_FI7CuzA
 
 function bubble(array) {
   for (let i = 0; i < array.length; i++) {
