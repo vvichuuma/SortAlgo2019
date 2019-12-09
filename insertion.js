@@ -1,6 +1,8 @@
 //THis is the code for Insertion sort:
 //you use a while loop:
 //you check for the elements towards your left and swap it.
+//you use for loop for incrementing
+//you use while loop for decrementing.
 
 function insertion(a) {
   for (let i = 0; i < a.length; i++) {
